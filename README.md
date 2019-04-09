@@ -1,5 +1,3 @@
-# Mechanical-Keyboards
+# DGL 4K
 
-IoSonoFormaggio's Mechanical Keyboard Projects
-
-This is my Repository of all of my mechanical keyboard related projects including PCBs, Case designs, etc.
+Files related to the keyboard DGL 4K made by 낑꽁이 from KBDLab.co.kr.
