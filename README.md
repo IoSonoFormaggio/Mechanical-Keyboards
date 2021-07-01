@@ -1,5 +1,1 @@
-# Mechanical-Keyboards
-
-IoSonoFormaggio's Mechanical Keyboard Projects
-
-This is my Repository of all of my mechanical keyboard related projects including PCBs, Case designs, etc.
+SKCC75 is designed to take parts from the IBM Pingmaster keyboard without the need to hunt for extra parts for any compatibility. 
